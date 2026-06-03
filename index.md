@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "我的賽博龐克基地"
 ---
 
